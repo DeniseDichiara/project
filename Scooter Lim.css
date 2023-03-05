@@ -1,0 +1,127 @@
+body{
+    background-image: url("background.jpg");
+    height: 100%;
+    background-position: unset;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.quadrato{
+    background-color: rgba(000, 000, 000, 0.5);
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 50px;
+    border-radius: 20px;
+    height: 600px;
+}
+
+.container-logo{
+    width: 200px;
+    margin: auto;
+}
+
+.container-logo-text{
+    width: 450px;
+    margin: auto;
+}
+
+.logo{
+    width: 100px;
+    margin: auto;
+}
+
+.logo-text{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(00, 255, 00) ;
+}
+
+.container-info{
+    width: 1000px;
+    margin: auto;
+}
+
+.azioni{
+    background-color: rgb(00, 255, 00);
+    line-height: 40px;
+}
+
+.bottoni{
+    width: 350px;
+    margin: auto;
+}
+
+.Gino22{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white ;
+}
+
+.metri220{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white ;
+}
+
+.carica1{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.Mike24{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white ;
+}
+
+.metri420{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white ;
+}
+
+.carica2{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white ;
+}
+
+.Fede154{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white ;
+}
+
+.metri490{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white ;
+}
+
+.carica3{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white ;
+}
+
+#orangeRectangle {
+    background: orange;
+    min-height: 20px;
+    width: 30%;
+    border-radius: 5px;
+}
+
+#greenRectangle {
+    background: rgb(00, 255, 00);
+    min-height: 20px;
+    width: 50%;
+    border-radius: 5px;
+}
+
+#pinkRectangle {
+    background: #ab3864;
+    min-height: 20px;
+    width: 20%;
+    border-radius: 5px;
+}
